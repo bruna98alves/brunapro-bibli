@@ -20,7 +20,8 @@ while True:
         titulo = input("Título: ")
         autor = input("Autor: ")
         ano = input("Ano: ")
-        biblioteca.adicionar(titulo, autor, ano)
+        genero= input("Genero:")
+        biblioteca.adicionar(titulo, autor, ano, genero)
         salvar_livros(biblioteca)
         print("Livro cadastrado com sucesso!")
 

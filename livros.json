@@ -3,5 +3,20 @@
         "titulo": "pai rico pai pobre",
         "autor": "robert kyosak",
         "ano": "2025"
+    },
+    {
+        "titulo": "Pequeno Principe",
+        "autor": "Antoine de Saint-Exupry",
+        "ano": "1943"
+    },
+    {
+        "titulo": "A Cabana",
+        "autor": "William P. Young",
+        "ano": "2007"
+    },
+    {
+        "titulo": "Crepusculo",
+        "autor": "Stephenie Meyer",
+        "ano": "2005"
     }
 ]
